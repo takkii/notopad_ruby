@@ -1,4 +1,4 @@
-### NotePad++用のRuby辞書です。
+### NotePad++(x86)のRuby辞書です。
 
 > C:\Program Files (x86)\Notepad++\plugins\APIs
 
