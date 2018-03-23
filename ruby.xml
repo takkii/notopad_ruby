@@ -3,6 +3,7 @@
   <AutoComplete>
     <keyWord name="__callee__" />
     <keyWord name="__dir__" />
+    <keyWord name="__END__" />
     <KeyWord name="__id__" />
     <keyWord name="__method__" />
     <KeyWord name="__send__" />
