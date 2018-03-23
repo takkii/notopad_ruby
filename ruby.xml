@@ -103,6 +103,7 @@
     <keyWord name="method_missing" />
     <KeyWord name="module_eval" />
     <KeyWord name="module_exec" />
+    <KeyWord name="module_function" />
     <KeyWord name="nil?" />
     <KeyWord name="name" />
     <KeyWord name="nesting" />
