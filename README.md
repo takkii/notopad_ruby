@@ -41,4 +41,4 @@ Copyright (c) 2018 Takayuki Kamiyama
 
 参考動画
 
-![notepad_ruby](https://github.com/takkii/notepad_ruby/blob/master/img/result.gif)
+![notopad_ruby](https://github.com/takkii/notopad_ruby/blob/master/img/result.gif)
