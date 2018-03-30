@@ -38,3 +38,7 @@ Copyright (c) 2018 Takayuki Kamiyama
 生じる一切の請求、損害、
 その他の義務について何らの責任も負わないものとします。
 ```
+
+参考動画
+
+![notepad_ruby](https://github.com/takkii/notepad_ruby/blob/master/img/result.gif)
