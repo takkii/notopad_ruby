@@ -4,15 +4,15 @@
 
 <s> C:\Program Files (x86)\Notepad++\plugins\APIs </s>
 
+<s>APIsフォルダにxmlファイルを管理者権限で追加してください。</s>
+
 ```markdown
 C:\Program Files\Notepad++\autoCompletion\ruby.xml
 ```
 
-<s>APIsフォルダにxmlファイルを管理者権限で追加してください。</s>
+> autoCompletionフォルダへruby.xmlを追加
 
-autoCompletionフォルダへruby.xmlを追加しましょう。
-
-※ ruby-dictionary3のruby_method.txtにある単語を表示します。
+※ [ruby-dictionary3](https://github.com/takkii/ruby-dictionary3)の[ruby_method.txt](https://github.com/takkii/ruby-dictionary3/blob/master/autoload/source/ruby_method.txt)にある単語を表示します。
 
 ### License
 
