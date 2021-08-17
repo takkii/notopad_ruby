@@ -2,17 +2,23 @@
 
 ### NotePad++(x86)のRuby辞書です。
 
-> C:\Program Files (x86)\Notepad++\plugins\APIs
+<s> C:\Program Files (x86)\Notepad++\plugins\APIs </s>
+
+> C:\Program Files\Notepad++\autoCompletion
 
 > ・ ruby.xml
 
-APIsフォルダにxmlファイルを管理者権限で追加してください。
+<s>APIsフォルダにxmlファイルを管理者権限で追加してください。</s>
 
-いつもより、もう少しだけ補完候補が表示されるようになります。
+autoCompletionフォルダへruby.xmlを追加しましょう。
 
-## License
-MITライセンス
-```
+※ ruby-dictionary3のruby_method.txtにある単語を表示します。
+
+### License
+
+_MITライセンス_
+
+```markdown
 The NotePad_ruby is MIT License
 
 Copyright (c) 2018 Takayuki Kamiyama
@@ -41,6 +47,6 @@ Copyright (c) 2018 Takayuki Kamiyama
 その他の義務について何らの責任も負わないものとします。
 ```
 
-参考動画
+参考動画 (旧単語リスト)
 
 ![notopad_ruby](https://github.com/takkii/notopad_ruby/blob/master/img/result.gif)
