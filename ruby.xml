@@ -48,9 +48,7 @@
     <KeyWord name="module_eval" />
     <KeyWord name="remove_method" />
     <KeyWord name="class_eval" />
-    <KeyWord name="<" />
     <KeyWord name="alias_method" />
-    <KeyWord name=">" />
     <KeyWord name="public_method_defined?" />
     <KeyWord name="module_exec" />
     <KeyWord name="class_exec" />
