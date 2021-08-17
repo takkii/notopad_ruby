@@ -1,12 +1,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)[![GitHub release](https://img.shields.io/github/release/takkii/notopad_ruby.svg?style=flat)](GitHub)[![GitHub Status](https://img.shields.io/github/last-commit/takkii/notopad_ruby.svg?style=flat)](GitHub)
 
-### NotePad++(x86)のRuby辞書です。
+### NotePad++Ruby辞書
 
 <s> C:\Program Files (x86)\Notepad++\plugins\APIs </s>
 
-> C:\Program Files\Notepad++\autoCompletion
-
-> ・ ruby.xml
+```markdown
+C:\Program Files\Notepad++\autoCompletion\ruby.xml
+```
 
 <s>APIsフォルダにxmlファイルを管理者権限で追加してください。</s>
 
